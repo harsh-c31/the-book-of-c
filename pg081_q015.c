@@ -19,7 +19,7 @@ int main (int argc, char* argv[] ){
     printf("%d",x);
   }else{
     if((month == 1 || month == 3 || month == 5 || month == 7|| month ==8 || month == 10 || month == 12)){
-      if ((day == 5 || day ==6 || day == 7)){
+      if ((day == 5 || day == 6 || day == 7)){
         x=5;
         printf("%d",x);
       }
